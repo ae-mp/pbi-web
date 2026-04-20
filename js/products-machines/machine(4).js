@@ -2,7 +2,7 @@ const machine4 = {
     id: 4,
     name: "ADAM II ",
     tagline: "Image Based Cell Counter",
-    image: "../image/adamii.png",
+    image: "/pbi-web/image/adamii.png",
     alt: "adamii_img",
     modalTarget: "#productModal",
     modalProduct: "adamii",
